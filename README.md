@@ -1,7 +1,7 @@
 # AI Cabin Price Predictor
 
 Final project for the Building AI course  
-by Mohamed Ahmed Hassan
+by Mohamed 
 
 ## Summary
 The AI Cabin Price Predictor is a machine learning–based tool that estimates the price of a cabin using its characteristics such as size, sauna area, distance to a lake, number of bathrooms, and proximity to neighbors.  
