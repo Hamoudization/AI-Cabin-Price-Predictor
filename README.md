@@ -3,7 +3,7 @@
 Final project for the Building AI course  
 by Mohamed Ahmed Hassan
 
-## Your idea in a nutshell
+## Summary
 The AI Cabin Price Predictor is a machine learning–based tool that estimates the price of a cabin based on its characteristics...
 
 
